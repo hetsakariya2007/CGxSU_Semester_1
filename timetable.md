@@ -111,9 +111,9 @@
 | 12:15–1:15  | Break                        | 12:15–1:15  | Break                  |
 | 1:15–2:45   | Samir Sir                   | 1:15–2:45   | Anubhav Sir (PS) |
 | 2:45–4:15   | Anubhav Sir (PS)           | 2:45–4:15   | Samir Sir                 |
-| 4:15–4:35   | Break                        | 4:15–4:35  | Break                  |
-| 4:35–5:45   | Skill Development & Assignment Hours| 4:35–5:45  | Skill Development & Assignment Hours                 |
-| 5:45–7:00   | Skill Development & Assignment Hours| 5:45–7:00  | Skill Development & Assignment Hours                  |
+| 4:15–4:40   | Break                        | 4:15–4:40  | Break                  |
+| 4:40–6:00   | Skill Development & Assignment Hours | 4:40–6:00  | Skill Development & Assignment Hours                 |
+| 6:00–7:00   | Skill Development & Assignment Hours| 6:00–7:00  | Skill Development & Assignment Hours                  |
 
 ### 16 Dec
 | Time        | CG LAB 1                     | Time        | CG LAB 2               |
@@ -121,11 +121,11 @@
 | 9:15–10:45  | Neel Sir (JS)              | 9:15–10:45  | Samir Sir (Web Dev)    |
 | 10:45–12:15 | Samir Sir (Web Dev)        | 10:45–12:15 | Neel Sir (JS)         |
 | 12:15–1:15  | Break                        | 12:15–1:15  | Break                  |
-| 1:15–2:45   | Neel Sir                       | 1:15–2:45   | Anubhav Sir (PS) |
-| 2:45–4:15   | Anubhav Sir (PS)           | 2:45–4:15      | Neel Sir                       |
-| 4:15–4:35   | Break                        | 4:15–4:35  | Break                  |
-| 4:35–5:45   | Skill Development & Assignment Hours| 4:35–5:45  | Skill Development & Assignment Hours                 |
-| 5:45–7:00   | Skill Development & Assignment Hours| 5:45–7:00  | Skill Development & Assignment Hours                  |
+| 1:15–2:45   | Samir Sir                   | 1:15–2:45   | Anubhav Sir (PS) |
+| 2:45–4:15   | Anubhav Sir (PS)           | 2:45–4:15   | Samir Sir                 |
+| 4:15–4:40   | Break                        | 4:15–4:40  | Break                  |
+| 4:40–6:00   | Skill Development & Assignment Hours | 4:40–6:00  | Skill Development & Assignment Hours                 |
+| 6:00–7:00   | Skill Development & Assignment Hours| 6:00–7:00  | Skill Development & Assignment Hours                  |
 
 ### 17 Dec
 | Time        | CG LAB 1                     | Time        | CG LAB 2               |
@@ -135,9 +135,9 @@
 | 12:15–1:15  | Break                        | 12:15–1:15  | Break                  |
 | 1:15–2:45   | Samir Sir                   | 1:15–2:45   | Anubhav Sir (PS) |
 | 2:45–4:15   | Anubhav Sir (PS)           | 2:45–4:15   | Samir Sir                 |
-| 4:15–4:35   | Break                        | 4:15–4:35  | Break                  |
-| 4:35–5:45   | Skill Development & Assignment Hours| 4:35–5:45  | Skill Development & Assignment Hours                 |
-| 5:45–7:00   | Skill Development & Assignment Hours| 5:45–7:00  | Skill Development & Assignment Hours                  |
+| 4:15–4:40   | Break                        | 4:15–4:40  | Break                  |
+| 4:40–6:00   | Skill Development & Assignment Hours | 4:40–6:00  | Skill Development & Assignment Hours                 |
+| 6:00–7:00   | Skill Development & Assignment Hours| 6:00–7:00  | Skill Development & Assignment Hours                  |
 
 ### 18 Dec
 | Time        | CG LAB 1                     | Time        | CG LAB 2               |
@@ -147,9 +147,9 @@
 | 12:15–1:15  | Break                        | 12:15–1:15  | Break                  |
 | 1:15–2:45   | Samir Sir                   | 1:15–2:45   | Anubhav Sir (PS) |
 | 2:45–4:15   | Anubhav Sir (PS)           | 2:45–4:15   | Samir Sir                 |
-| 4:15–4:35   | Break                        | 4:15–4:35  | Break                  |
-| 4:35–5:45   | Skill Development & Assignment Hours| 4:35–5:45  | Skill Development & Assignment Hours                 |
-| 5:45–7:00   | Skill Development & Assignment Hours| 5:45–7:00  | Skill Development & Assignment Hours                  |
+| 4:15–4:40   | Break                        | 4:15–4:40  | Break                  |
+| 4:40–6:00   | Skill Development & Assignment Hours | 4:40–6:00  | Skill Development & Assignment Hours                 |
+| 6:00–7:00   | Skill Development & Assignment Hours| 6:00–7:00  | Skill Development & Assignment Hours                  |
 
 ### 19 Dec
 | Time        | CG LAB 1                     | Time        | CG LAB 2               |
@@ -157,11 +157,11 @@
 | 9:15–10:45  | Neel Sir (JS)              | 9:15–10:45  | Samir Sir (Web Dev)    |
 | 10:45–12:15 | Samir Sir (Web Dev)        | 10:45–12:15 | Neel Sir (JS)         |
 | 12:15–1:15  | Break                        | 12:15–1:15  | Break                  |
-| 1:15–2:45   | Samir Sir                   | 1:15–2:45   | Anubhav Sir (PS) |
-| 2:45–4:15   | Anubhav Sir (PS)           | 2:45–4:15   | Samir Sir                 |
-| 4:15–4:35   | Break                        | 4:15–4:35  | Break                  |
-| 4:35–5:45   | Skill Development & Assignment Hours| 4:35–5:45  | Skill Development & Assignment Hours                 |
-| 5:45–7:00   | Skill Development & Assignment Hours| 5:45–7:00  | Skill Development & Assignment Hours                  |
+| 1:15–2:45   | Neel Sir                       | 1:15–2:45   | Anubhav Sir (PS) |
+| 2:45–4:15   | Anubhav Sir (PS)           | 2:45–4:15      | Neel Sir                       |
+| 4:15–4:40   | Break                        | 4:15–4:40  | Break                  |
+| 4:40–6:00   | Skill Development & Assignment Hours | 4:40–6:00  | Skill Development & Assignment Hours                 |
+| 6:00–7:00   | Skill Development & Assignment Hours| 6:00–7:00  | Skill Development & Assignment Hours                  |
 
 ### 20 Dec
 | Time        | CG LAB 1                     | Time        | CG LAB 2               |
@@ -171,7 +171,7 @@
 | 12:15–1:15  | Break                        | 12:15–1:15  | Break                  |
 | 1:15–2:45   | Neel Sir                       | 1:15–2:45   | Anubhav Sir (PS) |
 | 2:45–4:15   | Anubhav Sir (PS)           | 2:45–4:15      | Neel Sir                       |
-| 4:15–4:35   | Break                        | 4:15–4:35  | Break                  |
-| 4:35–5:45   | Skill Development & Assignment Hours| 4:35–5:45  | Skill Development & Assignment Hours                 |
-| 5:45–7:00   | Skill Development & Assignment Hours| 5:45–7:00  | Skill Development & Assignment Hours                  |
+| 4:15–4:40   | Break                        | 4:15–4:40  | Break                  |
+| 4:40–6:00   | Skill Development & Assignment Hours | 4:40–6:00  | Skill Development & Assignment Hours                 |
+| 6:00–7:00   | Skill Development & Assignment Hours| 6:00–7:00  | Skill Development & Assignment Hours                  |
 
